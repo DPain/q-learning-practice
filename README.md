@@ -2,4 +2,4 @@
 Practice for implementing Q Learning to find the shortest distance from A to B.
 
 # Result
-![Alt text](/../master/Capture.png?raw=true "Result")
+![Alt text](/../master/Capture.PNG?raw=true "Result")
